@@ -16,7 +16,7 @@ var roomstuff = {"rooms":{
 
 "medical":{"rName":"Medical","backgroundImage":"https://soi-drkdunge.hyperchat.com/medicalbackUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/medicalplaytopUSE.jpg><br>The Medical Room<br></center>","roombottom":""},
 
-"bathroom":{"rName":"Bathroom","backgroundImage":"https://soi-blkhrtco.hyperchat.com/poolbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/pooltop.jpg><br>Our Pool<br></center>","roombottom":""},
+"bathroom":{"rName":"Bathroom","backgroundImage":"https://soi-blkhrtco.hyperchat.com/poolbackground.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-blkhrtco.hyperchat.com/pooltop.jpg><br>The Bathroom<br></center>","roombottom":""},
 
 "littles":{"rName":"Littles","backgroundImage":"https://soi-drkdunge.hyperchat.com/littlesplayroombackUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/littlesplayroomtopUSE.jpg><br>The Littles Playroom<br></center>","roombottom":""},
 
@@ -24,6 +24,6 @@ var roomstuff = {"rooms":{
 
 "horse":{"rName":"Horse","backgroundImage":"https://soi-drkdunge.hyperchat.com/horseplaybackgroundUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/horseplaytopUSE.jpg><br>Horse Play Room<br></center>","roombottom":""},
 
-"pig":{"rName":"Pig","backgroundImage":"https://soi-drkdunge.hyperchat.com/pigbackUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/pigpentopUSE.jpg><br>The Pig Roombr></center>","roombottom":""},
+"pig":{"rName":"Pig","backgroundImage":"https://soi-drkdunge.hyperchat.com/pigbackUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/pigpentopUSE.jpg><br>The Pig Room<br></center>","roombottom":""},
 
 }}

@@ -1,4 +1,4 @@
-var multiConfig = {"THISROOM":"blkhrtco@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["main","meeting","refreshment","bondage","torture","religion","medical","bathroom","littles","puppy","horse","pig"],"defaultView":"outside"}
+var multiConfig = {"THISROOM":"blkhrtco@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["main","meeting","refreshment","bondage","torture","religion","medical","bathroom","littles","puppy","horse","pig"],"defaultView":"main"}
 
 var roomstuff = {"rooms":{
 

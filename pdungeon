@@ -4,7 +4,7 @@ var roomstuff = {"rooms":{
 
 "main":{"rName":"main","backgroundImage":"https://soi-drkdunge.hyperchat.com/USEDUNGEON.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/DarkDungeontopnew.jpg><br>Welcome to The Dungeon<br></center>","roombottom":""},
 
-"metting":{"rName":"The Meeting Room,"backgroundImage":"https://soi-drkdunge.hyperchat.com/meetingroombackgroundUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/meetingroomtopUSE.jpg><br>The Meeting Room<br></center>","roombottom":""},
+"meeting":{"rName":"The Meeting Room,"backgroundImage":"https://soi-drkdunge.hyperchat.com/meetingroombackgroundUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/meetingroomtopUSE.jpg><br>The Meeting Room<br></center>","roombottom":""},
 
 "refreshment":{"rName":"Refreshment Room","backgroundImage":"https://soi-drkdunge.hyperchat.com/refreshmentroombackUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/refreshmentroomtopUSE.jpg><br>Refreshments Room<br></center>","roombottom":""},
 
